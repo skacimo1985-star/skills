@@ -1,4 +1,4 @@
-# CodeRabbit Skills and Plugins
+# CodeRabbit Skills and Plugins 
 
 ![Version](https://img.shields.io/badge/version-1.1.1-blue)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
